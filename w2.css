@@ -1,0 +1,299 @@
+body{
+    background-color: #cbedee;
+    font-family: FreesiaUPC, Helvetica, sans-serif;
+    font-size: 24px;
+    }
+    .container{
+      position: absolute;
+      top: 50%;
+      margin-top: -20px;
+      margin-left: 39%;
+    }
+    .biggg{
+      font-family: FreesiaUPC, Helvetica, sans-serif;
+      font-size: 24px;
+      border-radius: 25px;
+      position: absolute;
+      width: 1300px;
+      height: 600px;
+      top: 60%;
+      left: 50%;
+      transform: translate(-50%,-50%);
+      padding: 40px;
+      box-sizing: border-box;
+      background: #def1ed;
+    }
+    /* .bigpre{
+      font-family: FreesiaUPC, Helvetica, sans-serif;
+      font-size: 24px;
+      border-radius: 25px;
+      position: absolute;
+      width: 1000px;
+      height: 500px;
+      top: 60%;
+      left: 50%;
+      transform: translate(-50%,-50%);
+      padding: 40px;
+      box-sizing: border-box;
+      background: #def1ed;
+    } */
+    .bigofmed{
+      font-family: FreesiaUPC, Helvetica, sans-serif;
+      font-size: 24px;
+      border-radius: 25px;
+      position: absolute;
+      width: 1000px;
+      height: 600px;
+      top: 60%;
+      left: 50%;
+      transform: translate(-50%,-50%);
+      padding: 40px;
+      box-sizing: border-box;
+      background: #def1ed;
+    }
+    .bigoflogin{
+      font-family: FreesiaUPC, Helvetica, sans-serif;
+      font-size: 24px;
+      border-radius: 25px;
+      position: absolute;
+      width: 600px;
+      height: 400px;
+      top: 60%;
+      left: 50%;
+      transform: translate(-50%,-50%);
+      padding: 40px;
+      box-sizing: border-box;
+      background: #def1ed;
+    }
+    .bigofdoctor{
+      font-family: FreesiaUPC, Helvetica, sans-serif;
+      font-size: 24px;
+      border-radius: 25px;
+      position: absolute;
+      width: 800px;
+      height: 500px;
+      top: 60%;
+      left: 50%;
+      transform: translate(-50%,-50%);
+      padding: 40px;
+      box-sizing: border-box;
+      background: #def1ed;
+    }
+    .form-control{
+      background-color: #bfbfbf;
+      height: 50px;
+      width: 400px;
+      font-size: 20px;
+      text-align: center;
+    }
+    .btn{
+      height: 50px;
+      width: 400px;
+      font-size: 20px;
+      font-family: Arial, Helvetica, sans-serif;
+      text-align: center;
+    }
+    .logo{
+     position: absolute;
+     top: 0;
+     left: 0;
+     height:150px;
+     margin:40px;
+    }
+    .boxlogin{
+      position: absolute;
+      top: 49%;
+      left: 50%;
+      margin-top: -110px; /* -(height/2) */
+      margin-left: -325px; /* -(width/2) */
+    }
+    .insertdataclient{
+      font-family: FreesiaUPC, Helvetica, sans-serif;
+      font-size: 24px;
+      align-content: center;
+      position: absolute;
+      top: 100px;
+      left: 160px;
+    }
+    .updateuser{
+      position: absolute;
+      width: 1300px;
+      top: 100px;
+      left: 200px;
+    }
+    .boxregis{
+        position: absolute;
+        left: 90px;
+        top: 200px;
+    }
+    .btregis{
+        font-size: 30px;
+        padding: 5px 95px;
+    }
+    .bigofcheck{
+      font-family: FreesiaUPC, Helvetica, sans-serif;
+      font-size: 24px;
+      border-radius: 25px;
+      position: absolute;
+      width: 650px;
+      height: 400px;
+      top: 60%;
+      left: 50%;
+      transform: translate(-50%,-50%);
+      padding: 40px;
+      box-sizing: border-box;
+      background: #def1ed;
+    }
+    .btcheck{
+      font-size: 30px;
+      padding: 9px 40px;
+  }
+  .btlogotofdataclient{
+    padding: 9px 40px;
+  }
+  .insertidcityzen{
+      font-size: 24px;
+      text-align: center;
+      position: absolute;
+      width: 300px;
+      height: 200px;
+      top: 100px;
+      left: 170px;
+  }
+  .insertdataperson{
+    font-family: FreesiaUPC, Helvetica, sans-serif;
+    font-size: 24px;
+    align-content: center;
+    position: absolute;
+    top: 90px;
+    left: 160px;
+  }
+  .login{
+    font-family: FreesiaUPC, Helvetica, sans-serif;
+    font-size: 24px;
+    align-content: center;
+    position: absolute;
+    top: 17%;
+    left: 17%;
+  }
+  .addressofperson{
+    position: fixed;
+    bottom: 160px;
+    right: 150px;
+  }
+  .column{
+      float: left;
+      width: 300px;
+      padding: 0px;
+      height: 500px;
+  }
+  .centercolumn{
+      position: relative;
+      width: 900px;
+      height: 500px;
+      left: 60px;
+  }
+  .sizeradio{
+      width: 15px;
+      height: 15px;
+  }
+  .columnpagemed{
+      position: absolute;
+      width: 600px;
+      height: 600px;
+      top: -60px;
+      left: 65px;
+  }
+  .columnpagelogin{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    top: 0px;
+    left: 0px;
+  }
+  .columnpagedoctor{
+    position: absolute;
+    width: 700px;
+    height: 500px;
+    top: 7px;
+    left: -45px;
+  }
+  .btregismed{
+      font-size: 30px;
+      padding: 5px 252px;
+  }
+  .left{
+    position: absolute;
+    right: 90px;
+    top: 200px;
+  }
+  td.left,input[type=tnam]{
+    padding: 10px 20px;
+    margin: 8px 0;
+    display:inline-block;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  input[TYPE=text]{
+  box-sizing: border-box;
+  display:inline-block;
+  }
+  .columnpagewelfare{
+    position: absolute;
+    width: 600px;
+    height: 600px;
+    top: 10px;
+    left: 40px;
+  }
+  .boxhistorycash{
+    position: absolute;
+    left: 90px;
+    top: 180px;
+  }
+  .tableshowuser{
+    background-color: #def1ed;
+    position: absolute;
+    font-family: FreesiaUPC, Helvetica, sans-serif;
+    font-size: 24px;
+    top: 35%;
+    left: 17%;
+  }
+  .tableupdateuser{
+    background-color: #def1ed;
+    position: absolute;
+    font-family: FreesiaUPC, Helvetica, sans-serif;
+    font-size: 24px;
+    top: 35%;
+    left: 30%;
+  }
+  .btupdate{
+    font-size: 25px;
+    width:670px;
+    height: 40px;
+    position: absolute;
+    top: 100%;
+  }
+  .tableupdateuser{
+    background-color: #def1ed;
+    position: absolute;
+    font-family: FreesiaUPC, Helvetica, sans-serif;
+    font-size: 24px;
+    top: 35%;
+    left: 32%;
+  }
+  .btlogout{
+    position: absolute;
+    height: 40px;
+    width: 140px;
+    right: 1%;
+  }
+  .columnmed{
+    background-color: aqua;
+    padding: 40px;
+    box-sizing: border-box;
+    width: 900px;
+    height: 900px;
+    position: absolute;
+    top: -100px;
+  }
+  
